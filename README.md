@@ -9,3 +9,7 @@ The idea of this project is to start to break down the barrier of understand, st
 The project is under development using the React API. This repository only contains the mock-ups. It is planned that there is a working version of the exchange by end of summer 2017.
 
 This repository contains an interactive .bmpr file which is how the mockup was built (using [balsamiq](https://balsamiq.com/))
+
+The Acount Dashboard is shown for reference:
+
+![alt text](https://github.com/jnederlo/fillit/blob/master/images/Dashboard.png)
