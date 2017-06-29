@@ -12,4 +12,4 @@ This repository contains an interactive .bmpr file which is how the mockup was b
 
 The Acount Dashboard is shown for reference:
 
-![alt text](https://github.com/jnederlo/fillit/blob/master/images/Dashboard.png)
+![alt text](https://github.com/jnederlo/mockExchange/blob/master/images/Dashboard.png)
